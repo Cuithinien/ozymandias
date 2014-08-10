@@ -9,7 +9,6 @@
 \layout {
   \context {
     \Score
-    \remove "Bar_number_engraver"
   }
   \context {
     \Voice
