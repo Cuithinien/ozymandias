@@ -25,18 +25,18 @@ global = {
 chordNames = \chordmode {
   \global
   % Chords follow here.
-  f1 bes/f e:dim a:m/e d:m g:m/d c d:m f:m bes:m/f e:7dim aes/ees d:dim g:dim/des c:sus4 f:m f bes/f e:dim a:m/e d:m g:m/d c:7 f
+  f1 bes/f e:m7.5- a:m/e d:m g:m/d c d:m f:m bes:m/f e:7dim aes/ees d:dim g:dim/des c:sus4 f:m f bes/f e:m7.5- a:m/e d:m g:m/d c:7 f
 }
 
 melody = \relative f' {
   \global
   % Music follows here.
-  f4. g8 bes a g f d'4. c8 bes4 a g r8 d' bes c a bes a4. e4. f4 d e8 f \tuplet 3/2 { g4 a g } bes4. d4. c4 a8 g4. c,4 d8 e f2 r f4. g8 bes aes g f des'4. c8 bes4 aes g r8 des'8 bes c aes bes aes4. e4. f4 d8 e f4 \tuplet 3/2 { g aes g } bes4. des4. c4 aes8 g ~ g2 d8 e f2 r f4. g8 bes a g f d'4. c8 bes4 a g r8 d' bes c a bes a4. e4. f4 d8 e f4 \tuplet 3/2 { g a g } bes4. d4. c4 a8 g4. a8 g f e f2
+  f4. g8 bes a g f d'4. c8 bes4 a g r8 d' bes c a bes a4. e4. f4 d e8 f \tuplet 3/2 { g4 a g } bes4. d4. c4 a8 g4. c,4 d8 e f2 r f4. g8 bes aes g f des'4. c8 bes4 aes g r8 des'8 bes c aes bes aes4. ees4. f4 d8 e f4 \tuplet 3/2 { g aes g } bes4. des4. c4 aes8 g ~ g2 d8 e f2 r f4. g8 bes a g f d'4. c8 bes4 a g r8 d' bes c a bes a4. e4. f4 d8 e f4 \tuplet 3/2 { g a g } bes4. d4. c4 a8 g4. a8 g f e f1 \bar "|."
 }
 
 verse = \lyricmode {
   % Lyrics follow here.
-  I once came up -- on a tra -- vel -- ler who "said:" "“A" sha -- ttered vi -- sage lies in the sands with a wrink -- led lip and a sneer of cold com -- \skip4 \skip4 mand On the ped -- es -- tal these words ap -- "pear:" "‘My" name is Oz -- ym -- an -- di -- as King of Kings \skip4 \skip4 look up -- on my works ye might -- y and de -- "spair!’" But a -- round the de -- cay of that wreck the lone and le -- vel sands stretch far a -- way No -- \skip4 thing be -- side re -- mains but the de -- sert bound -- \skip4 less and "bare”"
+  I once came up -- on a tra -- vel -- ler who "said:" "“A" sha -- ttered vi -- sage lies in the sands with a wrink -- led lip and_a sneer of cold com -- _ _ _ mand On the ped -- es -- tal these words ap -- "pear:" "‘My" name is Oz -- ym -- an -- di -- as King of Kings _ _ look up -- on my works ye might -- y and de -- "spair!’" But a -- round the break -- down of that wreck the lone and le -- vel sands stretch far a -- way No -- \skip4 thing be -- side re -- mains but the de -- sert bound -- _ less and "bare”"
 }
 
 \score {
