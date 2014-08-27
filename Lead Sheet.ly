@@ -36,7 +36,7 @@ melody = \relative f' {
 
 verse = \lyricmode {
   % Lyrics follow here.
-  I once came up -- on a tra -- vel -- ler who "said:" "“A" sha -- ttered vi -- sage lies in the sands with a wrink -- led lip and_a sneer of cold com -- _ _ _ mand On the ped -- es -- tal these words ap -- "pear:" "‘My" name is Oz -- ym -- an -- di -- as King of Kings _ _ look up -- on my works ye might -- y and de -- "spair!’" But a -- round the break -- down of that wreck the lone and le -- vel sands stretch far a -- way No -- \skip4 thing be -- side re -- mains but the de -- sert bound -- _ less and "bare”"
+  I once came up -- on a tra -- vel -- ler who "said:" "“A" shat -- tered vi -- sage lies in the sands with a wrink -- led lip and_a sneer of cold com -- _ _ _ mand On the ped -- es -- tal these words ap -- "pear:" "‘My" name is Oz -- ym -- an -- di -- as King of Kings _ _ look up -- on my works ye might -- y and de -- "spair!’" But a -- round the break -- down of that wreck the lone and le -- vel sands stretch far a -- way No -- \skip4 thing be -- side re -- mains but the de -- sert bound -- _ less and "bare”"
 }
 
 \score {
